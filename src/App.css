@@ -1,0 +1,8 @@
+.food{
+  border-radius: 20px;
+  border: 2px solid gray;
+  padding: 20px;
+}
+.App{
+  justify-content: center;
+}
